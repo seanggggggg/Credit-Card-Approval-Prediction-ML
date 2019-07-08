@@ -1,5 +1,6 @@
 # Project-Credit-Card-Prediction-ML
-Data from UCI ML Repository
+Data from UCI Machine Learning Repository
+Python 3.5
 
 Step 1: Applying Logistic Regression on Data to achieve a 83.33% accuracy on predicting the credit card approvals
 
