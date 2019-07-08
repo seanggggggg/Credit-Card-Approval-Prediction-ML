@@ -1,4 +1,4 @@
-# Project-Credit-Card-Prediction-ML
+# Credit-Card-Approval-Prediction-ML
 Data from UCI Machine Learning Repository
 
 Python 3.5
