@@ -1,4 +1,5 @@
 # Credit-Card-Approval-Prediction-ML
+Project on fraud detection using different machine learning models
 Data from UCI Machine Learning Repository
 
 Python 3.5
